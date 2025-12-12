@@ -5,7 +5,6 @@
 ### 💥 About me
 I'm a frontend and backend developer. I currently build frontend and backend projects using languages like JavaScript, TypeScript, and Python. I'm now working on personal projects with ReactJS and Next.JS for the front-end and Flask and Express.JS for the back-end. I can manage authentication methods, connections with different ORMs, states, shared storage, and the creation of REST APIs. Additionally, I can handle relational databases such as PostgreSQL, SQL Server, and MySQL, as well as non-relational databases like MongoDB.
 
-### ⭐My skills include
 #### Languages
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=yellow)
