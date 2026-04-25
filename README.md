@@ -7,6 +7,7 @@ I'm a frontend and backend developer. I currently build frontend and backend pro
 
 #### Languages
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Typescript-blue)
 ![Static Badge](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/SQL-black?style=flat-square)
 
